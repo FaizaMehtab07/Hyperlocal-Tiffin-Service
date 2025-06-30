@@ -1,11 +1,11 @@
 
-# Hyperlocal Tiffin Service 🍽️
+# Hyperlocal Tiffin Service
 
 A Streamlit-based platform designed to help users discover, explore, and review nearby Tiffin & Mess services. Inspired by apps like Zomato & Swiggy, this system is tailored for hyperlocal, homemade, and authentic food options within the city.
 
 ---
 
-## 💡 Project Idea
+## Project Idea
 
 The project aims to solve the problem of finding reliable, homemade, and diet-conscious Tiffin services, especially for students, working professionals, and people new to the city. Unlike traditional food delivery platforms, this focuses on:
 
@@ -16,7 +16,7 @@ The project aims to solve the problem of finding reliable, homemade, and diet-co
 
 ---
 
-## ✅ Current Implementation Status
+## Current Implementation Status
 
 Modular project structure implemented
 Service listing with category-wise filtering (Veg/Non-Veg)
@@ -40,7 +40,7 @@ Work is being implemented feature-by-feature with a focus on visual improvements
 
 ---
 
-## 📁 Project Folder Structure
+## Project Folder Structure
 
 ```
 IDEA_TIFFIN/
@@ -62,14 +62,14 @@ IDEA_TIFFIN/
 
 ---
 
-## 🌐 Live Deployment
+## Live Deployment
 
 Test the app live here:
 **[https://faizamehtab-hyperlocal-tiffin-service.streamlit.app](https://faizamehtab-hyperlocal-tiffin-service.streamlit.app)**
 
 ---
 
-## ⚙️ How to Clone & Run Locally
+## How to Clone & Run Locally
 
 ```bash
 git clone https://github.com/your-username/hyperlocal-tiffin-service.git
