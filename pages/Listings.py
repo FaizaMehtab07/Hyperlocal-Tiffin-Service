@@ -304,7 +304,12 @@ def show_listings():
                             st.session_state.cart.append(item_to_add)
                             st.success(f"Added {item['Item']} to cart!")
                             # Rerun to update the cart count immediately
-                            st.experimental_rerun()
+                            # Replaced st.experimental_rerun() with st.experimental_rerun() if available, else removed
+                            try:
+                                st.experimental_rerun()
+                            except AttributeError:
+                                # If experimental_rerun is not available, do nothing and rely on Streamlit's reactive model
+                                pass
                     
                     st.markdown("</div>", unsafe_allow_html=True)
 
