@@ -2,7 +2,7 @@ import google.generativeai as genai
 
 # Gemini API key seting
 # Make sure to set your API key in the environment variable or directly here
-genai.configure(api_key="AIzaSyCEy5pVfd-2miKvyAhAkygPoOoURsWy2ko")
+genai.configure(api_key="YOUR`S API KEY HERE")
 
 # Best available model
 MODEL = "models/gemini-2.0-flash-lite"
