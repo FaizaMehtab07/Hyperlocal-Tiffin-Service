@@ -1,0 +1,189 @@
+[
+  {
+    "item": "Morning Bheja Fry",
+    "ingredients": ["brain (bheja)", "onion", "green chili", "ginger-garlic paste", "red chili powder", "turmeric", "curry leaves", "oil", "salt"],
+    "nutrients": {
+      "Calories": 350,
+      "Protein": 20,
+      "Fat": 25,
+      "Fiber": 1
+    },
+    "advisory": "Rich in protein and iron; best consumed with low oil to keep it light."
+  },
+  {
+    "item": "Paya Soup",
+    "ingredients": ["mutton trotters (paya)", "ginger", "garlic", "onion", "black pepper", "coriander", "turmeric", "lemon", "salt"],
+    "nutrients": {
+      "Calories": 180,
+      "Protein": 15,
+      "Fat": 10,
+      "Fiber": 0.5
+    },
+    "advisory": "Good for joint health; moderate consumption recommended for those with cholesterol concerns."
+  },
+  {
+    "item": "Khichdi Khatta",
+    "ingredients": ["rice", "moong dal", "tamarind", "green chili", "ginger", "mustard seeds", "curry leaves", "turmeric", "salt"],
+    "nutrients": {
+      "Calories": 220,
+      "Protein": 8,
+      "Fat": 5,
+      "Fiber": 3
+    },
+    "advisory": "Light and easy to digest; suitable for a mild meal with moderate spice."
+  },
+  {
+    "item": "Bagara Khana with Dalcha",
+    "ingredients": ["basmati rice", "yogurt", "tamarind", "meat or vegetables", "onion", "ginger-garlic paste", "spices (cloves, cinnamon, cardamom)", "salt"],
+    "nutrients": {
+      "Calories": 400,
+      "Protein": 12,
+      "Fat": 10,
+      "Fiber": 4
+    },
+    "advisory": "Aromatic and flavorful; enjoy with moderate portion sizes for balanced nutrition."
+  },
+  {
+    "item": "Bhindi Roti",
+    "ingredients": ["bhindi (okra)", "wheat flour", "onion", "green chili", "ginger", "spices", "oil", "salt"],
+    "nutrients": {
+      "Calories": 250,
+      "Protein": 6,
+      "Fat": 8,
+      "Fiber": 5
+    },
+    "advisory": "Good source of fiber; best with minimal oil for a healthy meal."
+  },
+  {
+    "item": "Ragi Roti",
+    "ingredients": ["ragi flour", "water", "salt", "optional jowar or bajra flour"],
+    "nutrients": {
+      "Calories": 200,
+      "Protein": 5,
+      "Fat": 2,
+      "Fiber": 6
+    },
+    "advisory": "Nutritious and high in fiber; ideal for a wholesome, light meal."
+  },
+  {
+    "item": "Aloo Paratha",
+    "ingredients": ["wheat flour", "potato", "green chili", "coriander", "spices", "ghee or oil", "salt", "raita (yogurt, cucumber, spices)"],
+    "nutrients": {
+      "Calories": 350,
+      "Protein": 7,
+      "Fat": 15,
+      "Fiber": 4
+    },
+    "advisory": "Comfort food; best enjoyed with moderate ghee and a side of cooling raita."
+  },
+  {
+    "item": "Palak Paneer",
+    "ingredients": ["spinach", "paneer (cottage cheese)", "onion", "tomato", "ginger-garlic paste", "cream", "spices", "oil", "salt"],
+    "nutrients": {
+      "Calories": 300,
+      "Protein": 15,
+      "Fat": 20,
+      "Fiber": 4
+    },
+    "advisory": "Rich in calcium and iron; enjoy with controlled cream and oil for a balanced diet."
+  },
+  {
+    "item": "Vegetable Sabji",
+    "ingredients": ["mixed seasonal vegetables", "onion", "tomato", "ginger-garlic paste", "spices", "oil", "salt"],
+    "nutrients": {
+      "Calories": 180,
+      "Protein": 5,
+      "Fat": 7,
+      "Fiber": 6
+    },
+    "advisory": "Light and nutritious; best with minimal oil to retain freshness."
+  },
+  {
+    "item": "Rasam Rice",
+    "ingredients": ["tamarind", "tomato", "mustard seeds", "curry leaves", "garlic", "black pepper", "coriander", "rice", "salt"],
+    "nutrients": {
+      "Calories": 250,
+      "Protein": 5,
+      "Fat": 4,
+      "Fiber": 2
+    },
+    "advisory": "Tangy and comforting; suitable for light meals with moderate spice."
+  },
+  {
+    "item": "Mixed Vegetable Khichdi",
+    "ingredients": ["rice", "moong dal", "mixed vegetables", "ginger", "cumin", "turmeric", "salt"],
+    "nutrients": {
+      "Calories": 230,
+      "Protein": 9,
+      "Fat": 5,
+      "Fiber": 5
+    },
+    "advisory": "Balanced and nutritious; ideal for a wholesome meal with low masala."
+  },
+  {
+    "item": "Spinach Juice",
+    "ingredients": ["fresh spinach", "water", "lemon juice (optional)"],
+    "nutrients": {
+      "Calories": 40,
+      "Protein": 3,
+      "Fat": 0,
+      "Fiber": 1
+    },
+    "advisory": "Iron-rich and refreshing; best consumed without added sugar."
+  },
+  {
+    "item": "ABC Juice",
+    "ingredients": ["apple", "beetroot", "carrot", "water", "lemon juice (optional)"],
+    "nutrients": {
+      "Calories": 90,
+      "Protein": 1,
+      "Fat": 0,
+      "Fiber": 2
+    },
+    "advisory": "Detoxifying and vitamin-rich; enjoy as a fresh, natural drink."
+  },
+  {
+    "item": "Pomegranate Juice",
+    "ingredients": ["fresh pomegranate seeds", "water", "optional sugar"],
+    "nutrients": {
+      "Calories": 80,
+      "Protein": 1,
+      "Fat": 0,
+      "Fiber": 1
+    },
+    "advisory": "Antioxidant-rich; best with optional sugar kept low for health."
+  },
+  {
+    "item": "Apple Juice",
+    "ingredients": ["fresh apples", "water", "optional sugar"],
+    "nutrients": {
+      "Calories": 85,
+      "Protein": 0,
+      "Fat": 0,
+      "Fiber": 1
+    },
+    "advisory": "Vitamin-rich and hydrating; enjoy with minimal added sugar."
+  },
+  {
+    "item": "Orange Juice",
+    "ingredients": ["fresh oranges", "water", "optional sugar"],
+    "nutrients": {
+      "Calories": 90,
+      "Protein": 1,
+      "Fat": 0,
+      "Fiber": 1
+    },
+    "advisory": "Vitamin C boost; best consumed fresh with low sugar."
+  },
+  {
+    "item": "Fresh Lemonade",
+    "ingredients": ["lemon", "mint", "water", "low sugar"],
+    "nutrients": {
+      "Calories": 50,
+      "Protein": 0,
+      "Fat": 0,
+      "Fiber": 0.5
+    },
+    "advisory": "Refreshing and light; ideal with low sugar for hydration."
+  }
+]

@@ -1,4 +1,5 @@
 import streamlit as st
+from rag_module.rag_engine import rag_response
 from pages.Home import show_home
 from pages.Listings import show_listings
 from pages.MapView import show_map
@@ -53,6 +54,15 @@ def main():
         show_reviews()
     elif page == "Subscribe":
         show_subscribe()
+
+    st.title("Hyperlocal Tiffin Service - Food Discovery")
+
+    query = st.text_input("Ask about food items, ingredients, nutrients, or health advisories:")
+
+    if query:
+        st.write("Fetching answer...")
+        answer = rag_response(query)
+        st.write(answer)
 
 if __name__ == "__main__":
     main()

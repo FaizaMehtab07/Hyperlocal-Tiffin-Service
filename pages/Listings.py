@@ -1,6 +1,7 @@
 import streamlit as st
 from PIL import Image
 import os
+from rag_module.rag_engine import rag_response
 
 # --- DATA DEFINITIONS ---
 # It's good practice to define your data outside the main rendering function
@@ -294,6 +295,12 @@ def show_listings():
                         desc = DESCRIPTIONS.get(item['Item'], "A delicious food item.")
                         st.write(desc)
                         st.markdown(f"**Price: ₹{item['Price']}**")
+
+                        # Add Food Advisory button and display
+                        advisory_key = f"advisory_{selected_service_name}_{item['Item']}"
+                        if st.button("Show Food Advisory", key=advisory_key):
+                            advisory_text = rag_response(item['Item'])
+                            st.info(advisory_text)
                     
                     with col3:
                         # Use a unique key for each button to avoid Streamlit errors
