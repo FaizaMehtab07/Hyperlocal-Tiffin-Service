@@ -5,7 +5,7 @@ To help users get **simple, useful, and polite health advisories** for food item
 
 ---
 
-## ⚙️ How It Works
+## How It Works
 
 - A JSON file (`food_info.json`) was created containing ingredients, nutrients, and a soft health advisory.
 - When users click **"Show Food Advisory"**, it triggers the **RAG pipeline**:
