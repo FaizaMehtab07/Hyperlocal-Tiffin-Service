@@ -28,17 +28,11 @@ Search and Filter by Service Name or Area
 Basic authentication setup in progress
 
 **Total Progress:** Approximately 30% complete
-**Pending Major Features:**
-
-* Cart checkout with transaction summary
-* Interactive map view for location-based services
-* Order confirmation workflow
-* Enhanced responsive design for mobile screens
-* Complete authentication & subscription system
-
 Work is being implemented feature-by-feature with a focus on visual improvements and user experience.
 
 ---
+
+Note: Detailed feature updates and feature integration explanation can be found in update.md
 
 ## Project Folder Structure
 
@@ -57,7 +51,8 @@ IDEA_TIFFIN/
 ├── auth.py                 # Basic authentication logic
 ├── db.py                   # Database setup and operations
 ├── requirements.txt        # Python package dependencies
-└── README.md               # Project overview and instructions
+├── Readme.md               # Project overview and instructions
+└── update.md               # Feature updates and integration logic
 ```
 
 ---
